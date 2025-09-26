@@ -1,9 +1,3 @@
-
-
-
-
-[Basic Calculator.md](https://github.com/user-attachments/files/22558842/Basic.Calculator.md)
-
 # Calculator Project
 
 A simple, responsive Calculator Web Application built with HTML, CSS, and JavaScript.
